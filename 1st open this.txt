@@ -1,0 +1,8 @@
+"""
+
+extract the chatbot folder into D: drive of your pc/laptop
+"if you don't have D: drive add comment i'll definitely help you
+
+
+"""
+note : use "pip install -r .\requirements.txt" in terminal
